@@ -1,0 +1,28 @@
+public class AsalSayıMı {
+    public static void main(String[] args) {
+        int sayi=-1;
+        boolean asalmı=true;
+        if(sayi<1){
+            System.out.println("Geçerli sayı giriniz.");
+            return;
+        }
+        if(sayi==1){
+            System.out.println("Asal sayı değildir");
+            return;
+        }
+        for (int i=2;i<sayi;i++){
+            if (sayi%i==0){
+                asalmı=false;
+            }
+        }
+        if (asalmı){
+            System.out.println("Girdiğiniz sayı asaldır.");
+            return;
+        }
+        if(asalmı==false){
+            System.out.println("Girdiğiniz sayı asal değildir.");
+        }
+
+    }
+
+}
