@@ -1,6 +1,6 @@
-<img src="https://i.pinimg.com/236x/74/6e/e1/746ee160b3dc554dd8310d89962c93a0.jpg" alt="Başlık Resmi" style="width: 100%; height: auto;">
-
-
+<div align="center">
+  <img src="https://i.pinimg.com/originals/a8/f1/7d/a8f17d31553ba757bf7f6ae5fcb4b76f.gif" alt="Başlık Resmi" style="display: block; width: 100%;">
+</div>
 <h1 align="center">Hi 👋, I'm Yusuf Batuhan IŞIK</h1>
 <h3 align="center">A student at Gebze Technical University | Computer Science</h3>
 
